@@ -3,6 +3,10 @@
 - minSdkVersion 14
 - targetSdkVersion 28
 
+# Build
+- download/clone the repo
+- open project from Android studio
+
 # Assumptions:
 - Using recyclerview instead of ListView, simply because it's more powerful and easy to use.
 - There is no dependency injection (e.g dagger), I believe it's a overkill for this exercise.
